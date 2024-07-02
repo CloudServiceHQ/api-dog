@@ -1,11 +1,11 @@
 # API 디자인
 > Apidog 에서 어떻게 API를 디자인하는지 설명하는 문서입니다.
-* [1. Get Started](#1-get-start)
-* [2. Design](#2-design)
+1. [Get Started](#1-get-start)
+2. [Design](#2-design)
     + [schema 정의](#schema---)
     + [자주 사용되는 Parameter 등록](#--------parameter---)
     + [Response Template 정의](#response-template---)
-* [3. Management](#3-management)
+3. [Management](#3-management)
     + [복수개의 API 관리](#-----api---)
     + [Custom Field 정의](#custom-field---)
     + [API End-point에 고유 식별자 추가](#api-end-point-----------)
