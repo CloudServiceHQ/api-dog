@@ -4,7 +4,7 @@
 
 1. [Generate Code](#1-generate-code)
    - [1.1. Generate Client Code](#11-generate-client-code)
-   - [1.2. Generate Server Stubs & Client SDKs](#12-generate-server-stubs-and-client-sdks)
+   - [1.2. Generate Server Stubs and Client SDKs](#12-generate-server-stubs-and-client-sdks)
 2. [Importing and Exporting Data](#2-importing-and-exporting-data)
 
 ## 1. Generate Code
@@ -26,7 +26,7 @@ Apidog를 사용하여 다양한 언어와 프레임워크에 대한 코드를 �
 ![generate-code-2](/docs/order-feature/generate-code-2.png)
 ![generate-code-3](/docs/order-feature/generate-code-3.png)
 
-### 1-2. Generate Server Stubs & Client SDKs
+### 1.2. Generate Server Stubs and Client SDKs
 
 서버 스텁 및 클라이언트 SDK는 서버 측 비즈니스 로직을 구현하거나 클라이언트 애플리케이션이 서버와 통신하는 데 필요한 코드를 생성합니다.
 
