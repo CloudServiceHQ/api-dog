@@ -99,4 +99,4 @@ API End-point에 고유한 식별자를 지정하여 API 호출 시 발생할 �
 
     1. API 최상단 폴더를 클릭합니다.
     2. 네비게이션 메뉴에서 Folder Settings를 클릭합니다.
-    3. Endpoint Unique ID에 
+    3. Endpoint Unique ID 에서 Unique ID 방식을 선택합니다.
