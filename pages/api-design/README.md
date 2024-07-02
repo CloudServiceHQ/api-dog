@@ -1,6 +1,6 @@
 # API 디자인
 > Apidog 에서 어떻게 API를 디자인하는지 설명하는 문서입니다.
-1. [Get Start](#1-get-start)
+1. [Getting Started](#1-getting-started)
 2. [Design](#2-design)
     + [2.1. schema 정의](#21-schema-정의)
     + [2.2. schema 관리 및 자동생성](#22-schema-관리-및-자동생성)
@@ -12,7 +12,7 @@
     + [3.2. Custom Field 정의](#32-custom-field-정의)
     + [3.3. API End-point에 고유 식별자 추가](#33-api-end-point에-고유-식별자-추가)
 
-## 1. Get Start
+## 1. Getting Started
 새로운 End-point를 생성하거나, Import 하여 API Design 문서를 작성할 수 있습니다.  
 
 ![get-started-1](/docs/api-design/get-started-1.png)
