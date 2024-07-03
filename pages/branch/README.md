@@ -1,4 +1,4 @@
-# branch
+# Branch
 
 > Apidog에서 API 브랜치를 관리하고 사용하는 방법을 설명하는 문서입니다.
 
